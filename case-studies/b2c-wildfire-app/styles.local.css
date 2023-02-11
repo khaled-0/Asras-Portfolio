@@ -60,7 +60,7 @@ html {
 
 .sneak-peak-img-grid {
   grid-gap: 1rem;
-  grid-template-columns: repeat(auto-fill, 200px);
+  grid-template-columns: repeat(auto-fill, 160px);
 }
 
 .hi-fi {
