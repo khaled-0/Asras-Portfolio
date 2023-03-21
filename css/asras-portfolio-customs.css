@@ -1,6 +1,6 @@
 body {
   font-family: "Muli", Arial, sans-serif;
-  color: #333;
+  color: #555d6d;
   font-size: 1.1rem;
   line-height: 1.3em;
 }
@@ -11,6 +11,7 @@ h1 {
   font-size: 38px;
   line-height: 44px;
   font-weight: bold;
+  color: #333;
 }
 
 h2 {
@@ -19,6 +20,7 @@ h2 {
   font-size: 32px;
   line-height: 36px;
   font-weight: bold;
+  color: #333;
 }
 
 h3 {
@@ -27,6 +29,7 @@ h3 {
   font-size: 24px;
   line-height: 30px;
   font-weight: bold;
+  color: #333;
 }
 
 h4 {
@@ -35,6 +38,7 @@ h4 {
   font-size: 18px;
   line-height: 24px;
   font-weight: bold;
+  color: #333;
 }
 
 h5 {
@@ -43,6 +47,7 @@ h5 {
   font-size: 14px;
   line-height: 20px;
   font-weight: bold;
+  color: #333;
 }
 
 p {
@@ -767,6 +772,7 @@ figure {
   font-size: 27px;
   line-height: 1.4em;
   font-weight: 700;
+  color: #333;
 }
 
 .slide-nav {
