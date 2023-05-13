@@ -57,6 +57,10 @@ html {
   padding-bottom: 1.5rem;
 }
 
+.chunks li {
+  line-height: 1.75rem;
+}
+
 .key-insights-grid {
   grid-gap: 4rem;
   grid-template-columns: 1fr 1fr;
