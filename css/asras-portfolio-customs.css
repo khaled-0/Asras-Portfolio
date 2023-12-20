@@ -188,12 +188,12 @@ figure {
   max-height: 95vh;
   margin-bottom: 1.5rem;
   background-color: #292929;
-  background-image: url("../images/shape-tinia-bottom_1.png"),
+  background-image: url("/images/shape-tinia-bottom_1.png"),
     -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.39)), color-stop(35%, hsla(0, 0%, 100%, 0))),
-    url("../images/collection_mobile.jpg");
-  background-image: url("../images/shape-tinia-bottom_1.png"),
+    url("/images/collection_mobile.jpg");
+  background-image: url("/images/shape-tinia-bottom_1.png"),
     linear-gradient(0deg, rgba(0, 0, 0, 0.39), hsla(0, 0%, 100%, 0) 35%),
-    url("../images/collection_mobile.jpg");
+    url("/images/collection_mobile.jpg");
   background-position: 50% 100%, 0px 0px, 50% 50%;
   background-size: contain, auto, cover;
   background-repeat: no-repeat, repeat, no-repeat;
@@ -210,13 +210,13 @@ figure {
       from(rgba(0, 0, 0, 0.39)),
       color-stop(35%, hsla(0, 0%, 100%, 0))
     ),
-    url("../images/header-group.jpg");
+    url("/images/header-group.jpg");
   background-image: linear-gradient(
       0deg,
       rgba(0, 0, 0, 0.39),
       hsla(0, 0%, 100%, 0) 35%
     ),
-    url("../images/header-group.jpg");
+    url("/images/header-group.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -244,13 +244,13 @@ figure {
       from(rgba(0, 0, 0, 0.55)),
       color-stop(72%, hsla(0, 0%, 100%, 0))
     ),
-    url("../images/opener-jka.jpg");
+    url("/images/opener-jka.jpg");
   background-image: linear-gradient(
       0deg,
       rgba(0, 0, 0, 0.55),
       hsla(0, 0%, 100%, 0) 72%
     ),
-    url("../images/opener-jka.jpg");
+    url("/images/opener-jka.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-attachment: scroll, scroll;
@@ -272,12 +272,12 @@ figure {
   -webkit-align-items: flex-end;
   -ms-flex-align: end;
   align-items: flex-end;
-  background-image: url("../images/shape-tinia-bottom_1.png"),
+  background-image: url("/images/shape-tinia-bottom_1.png"),
     -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.73)), to(hsla(0, 0%, 100%, 0))),
-    url("../images/collection_mobile.jpg");
-  background-image: url("../images/shape-tinia-bottom_1.png"),
+    url("/images/collection_mobile.jpg");
+  background-image: url("/images/shape-tinia-bottom_1.png"),
     linear-gradient(0deg, rgba(0, 0, 0, 0.73), hsla(0, 0%, 100%, 0)),
-    url("../images/collection_mobile.jpg");
+    url("/images/collection_mobile.jpg");
   background-position: 50% 100%, 0px 0px, 50% 50%;
   background-size: auto, auto, cover;
   background-repeat: repeat-x, repeat, no-repeat;
@@ -306,13 +306,13 @@ figure {
       from(rgba(0, 0, 0, 0.55)),
       to(hsla(0, 0%, 100%, 0))
     ),
-    url("../images/header-group.jpg");
+    url("/images/header-group.jpg");
   background-image: linear-gradient(
       0deg,
       rgba(0, 0, 0, 0.55),
       hsla(0, 0%, 100%, 0)
     ),
-    url("../images/header-group.jpg");
+    url("/images/header-group.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -323,8 +323,8 @@ figure {
   padding-top: 52px;
   padding-bottom: 160px;
   background-color: #f5f5f5;
-  background-image: url("../images/shape-tinia-top.png"),
-    url("../images/shape-tinia-bottom.png");
+  background-image: url("/images/shape-tinia-top.png"),
+    url("/images/shape-tinia-bottom.png");
   background-position: 50% 0px, 50% 100%;
   background-size: auto, auto;
   background-repeat: repeat-x, repeat-x;
@@ -717,17 +717,17 @@ figure {
   padding-left: 0px;
   border-top-left-radius: 8px;
   border-bottom-left-radius: 8px;
-  background-image: url("../images/collection_mobile.jpg");
+  background-image: url("/images/collection_mobile.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .big-article-image-wrapper.ggc-bg {
-  background-image: url("../images/header-group.jpg");
+  background-image: url("/images/header-group.jpg");
 }
 
 .big-article-image-wrapper.jka-thumb {
-  background-image: url("../images/jka-thumbnail.jpg");
+  background-image: url("/images/jka-thumbnail.jpg");
 }
 
 .body-3 {
@@ -802,7 +802,7 @@ figure {
 } */
 
 .slide-11 {
-  background-image: url("../images/1_1.png");
+  background-image: url("/images/1_1.png");
   background-position: 50% 50%;
   /* background-size: cover; */
   background-size: 236px;
@@ -810,42 +810,42 @@ figure {
 }
 
 .slide-12 {
-  background-image: url("../images/2_1.jpg");
+  background-image: url("/images/2_1.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .slide-13 {
-  background-image: url("../images/3_1.jpg");
+  background-image: url("/images/3_1.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .slide-14 {
-  background-image: url("../images/4_1.jpg");
+  background-image: url("/images/4_1.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .slide-15 {
-  background-image: url("../images/5_1.jpg");
+  background-image: url("/images/5_1.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .slide-16 {
-  background-image: url("../images/6_1.jpg");
+  background-image: url("/images/6_1.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .slide-17 {
-  background-image: url("../images/7_1.jpg");
+  background-image: url("/images/7_1.jpg");
   background-position: 50% 50%;
 }
 
 .slide-18 {
-  background-image: url("../images/8_1.jpg");
+  background-image: url("/images/8_1.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
