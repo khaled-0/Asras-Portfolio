@@ -4089,3 +4089,9 @@ NavigationContainer [data-framer-component-type="NavigationContainer"] > *,
 .work-with-me {
   margin-top: 0;
 }
+
+ol , ul {
+  display: flex; 
+  flex-direction: column; 
+  gap: 0.2rem;
+}
