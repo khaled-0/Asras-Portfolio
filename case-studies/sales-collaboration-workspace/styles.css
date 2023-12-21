@@ -3319,7 +3319,7 @@ NavigationContainer [data-framer-component-type="NavigationContainer"] > *,
 .framer-EXDFb .framer-1ie6v2 {
   background-color: #fff;
   flex: none;
-  height: 3300px;
+  height: 3400px;
   left: 0;
   overflow: hidden;
   position: absolute;
@@ -4094,4 +4094,8 @@ ol , ul {
   display: flex; 
   flex-direction: column; 
   gap: 0.2rem;
+}
+
+.framer-72rtr7 {
+  height: 11220px !important
 }
