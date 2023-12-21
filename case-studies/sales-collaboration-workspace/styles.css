@@ -4085,3 +4085,7 @@ NavigationContainer [data-framer-component-type="NavigationContainer"] > *,
   border-bottom: unset;
   padding-bottom: 2rem;
 }
+
+.work-with-me {
+  margin-top: 0;
+}
