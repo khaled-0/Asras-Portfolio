@@ -4099,3 +4099,11 @@ ol , ul {
 .framer-72rtr7 {
   height: 11220px !important
 }
+
+.gif-player {
+  z-index: 999;
+}
+
+.gif-player:hover{
+  opacity: 0;
+}
