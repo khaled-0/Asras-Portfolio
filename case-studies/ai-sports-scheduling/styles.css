@@ -3985,3 +3985,26 @@ NavigationContainer [data-framer-component-type="NavigationContainer"] > *,
     margin: 0 29px;
   }
 }
+
+.framer-6XL82 .framer-1eqafh9 {
+  top: 5700px;
+}
+.framer-6XL82 .framer-qk22a3 {
+  background-color: #fff;
+  flex: none;
+  height: 5700px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.opener {
+  border-bottom: unset;
+  padding-bottom: 2rem;
+}
+
+.work-with-me {
+  margin-top: 0;
+}
