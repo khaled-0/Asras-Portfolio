@@ -4015,3 +4015,7 @@ NavigationContainer [data-framer-component-type="NavigationContainer"] > *,
 .gif-player:hover {
   opacity: 0;
 }
+
+* {
+  font-family: "Product Sans" !important;
+}

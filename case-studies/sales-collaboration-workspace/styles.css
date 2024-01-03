@@ -4090,20 +4090,25 @@ NavigationContainer [data-framer-component-type="NavigationContainer"] > *,
   margin-top: 0;
 }
 
-ol , ul {
-  display: flex; 
-  flex-direction: column; 
+ol,
+ul {
+  display: flex;
+  flex-direction: column;
   gap: 0.2rem;
 }
 
 .framer-72rtr7 {
-  height: 11220px !important
+  height: 11220px !important;
 }
 
 .gif-player {
   z-index: 999;
 }
 
-.gif-player:hover{
+.gif-player:hover {
   opacity: 0;
+}
+
+* {
+  font-family: "Product Sans" !important;
 }
