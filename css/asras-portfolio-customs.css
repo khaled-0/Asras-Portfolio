@@ -804,7 +804,7 @@ figure {
 .slide-11 {
   background-image: url("/images/1_1.png");
   background-position: 50% 50%;
-  /* background-size: cover; */
+  background-size: contain;
   background-size: 236px;
   background-repeat: no-repeat;
 }
